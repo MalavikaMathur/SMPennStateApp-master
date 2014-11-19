@@ -2,7 +2,7 @@
 //  SMStartPage.m
 //  Course Companion
 //
-//  Created by Nick Woodward on 10/15/14.
+//  Created by Malavika Mathuron 10/15/14.
 //  Copyright (c) 2014 softwaremerchant. All rights reserved.
 //
 
